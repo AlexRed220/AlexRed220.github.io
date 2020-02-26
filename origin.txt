@@ -1,0 +1,308 @@
+Uri: http://tamada-69.ru/
+File Name: c:\Downloaded Web Sites\tamada-69.ru\index.htm
+Content Type: text/html
+
+Uri: http://tamada-69.ru/assets/template/img/favicon/favicon.ico
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\favicon\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: http://tamada-69.ru/assets/template/img/favicon/apple-touch-icon.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/favicon/apple-touch-icon-72x72.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\favicon\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/favicon/apple-touch-icon-114x114.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\favicon\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/css/jquery.fancybox.css
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: http://tamada-69.ru/assets/template/css/common.css?ver=1.0.0
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\css\common.css
+Content Type: text/css
+
+Uri: http://tamada-69.ru/assets/template/css/responsive.css?ver=1.0.0
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\css\responsive.css
+Content Type: text/css
+
+Uri: http://tamada-69.ru/about
+File Name: c:\Downloaded Web Sites\tamada-69.ru\about.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\index.htm
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/provedenie-svadeb
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\provedenie-svadeb.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/provedenie-korporativa
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\provedenie-korporativa.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/vyipusknoj
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\vyipusknoj.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/ded-moroz-na-novyij-god
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\ded-moroz-na-novyij-god.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/den-rozhdeniya-i-yubilej
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\den-rozhdeniya-i-yubilej.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/detskie-meropriyatiya
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\detskie-meropriyatiya.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/8-marta-mezhdunarodnyij-zhenskij-den
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\8-marta-mezhdunarodnyij-zhenskij-den.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/uslugi/23-fevralya-den-zashhitnika-otechestva
+File Name: c:\Downloaded Web Sites\tamada-69.ru\uslugi\23-fevralya-den-zashhitnika-otechestva.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/price
+File Name: c:\Downloaded Web Sites\tamada-69.ru\price.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/gallery
+File Name: c:\Downloaded Web Sites\tamada-69.ru\gallery.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/reviews
+File Name: c:\Downloaded Web Sites\tamada-69.ru\reviews.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/info/
+File Name: c:\Downloaded Web Sites\tamada-69.ru\info\index.htm
+Content Type: text/html
+
+Uri: http://tamada-69.ru/info/hardware
+File Name: c:\Downloaded Web Sites\tamada-69.ru\info\hardware.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/info/dj
+File Name: c:\Downloaded Web Sites\tamada-69.ru\info\dj.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/info/fotograf-i-videooperator
+File Name: c:\Downloaded Web Sites\tamada-69.ru\info\fotograf-i-videooperator.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/info/thanks
+File Name: c:\Downloaded Web Sites\tamada-69.ru\info\thanks.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/contacts
+File Name: c:\Downloaded Web Sites\tamada-69.ru\contacts.html
+Content Type: text/html
+
+Uri: http://tamada-69.ru/assets/template/img/logo.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\logo.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/slides/slide1.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slides\slide1.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/slides/slide2.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slides\slide2.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/slides/slide3.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slides\slide3.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/slides/slide4.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slides\slide4.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/slides/slide6.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slides\slide6.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/slides/slide7.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slides\slide7.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/heart1.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\heart1.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/heart2.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\heart2.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/heart3.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\heart3.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/heart4.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\heart4.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/js/lib/jquery.fancybox.js
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\js\lib\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: http://tamada-69.ru/assets/template/js/app/common.js?ver=1.0.0
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\js\app\common.js
+Content Type: application/javascript
+
+Uri: http://tamada-69.ru/assets/template/js/app/animations.js?ver=1.0.0
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\js\app\animations.js
+Content Type: application/javascript
+
+Uri: http://tamada-69.ru/assets/template/img/bg.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\bg.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/spritesheet.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\spritesheet.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/slider-arrows.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\slider-arrows.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/socials.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\socials.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/block1-bg.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\block1-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/hw2.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\hw2.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/rays1.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\rays1.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/hw8.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\hw8.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/rays3.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\rays3.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/hw7.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\hw7.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/rays2.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\rays2.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/hw3.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\hw3.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/hw5.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\hw5.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/hw9.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\hw9.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/bubble.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\bubble.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/chick1.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\chick1.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/chick2.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\chick2.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/shool.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\shool.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/heart5.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\heart5.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/gallery/big/gallery-img1.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\gallery\big\gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/gallery/big/gallery-img2.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\gallery\big\gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/gallery/big/gallery-img3.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\gallery\big\gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/gallery/small/gallery-img1.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\gallery\small\gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/gallery/small/gallery-img2.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\gallery\small\gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/gallery/small/gallery-img3.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\gallery\small\gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/dj1.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\dj1.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/dj2.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\dj2.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/dj4.png
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\dj4.png
+Content Type: image/png
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/big/gallery-img1.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\big\gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/big/gallery-img2.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\big\gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/big/gallery-img3.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\big\gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/big/gallery-img4.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\big\gallery-img4.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/small/gallery-img1.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\small\gallery-img1.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/small/gallery-img2.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\small\gallery-img2.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/small/gallery-img3.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\small\gallery-img3.jpg
+Content Type: image/jpeg
+
+Uri: http://tamada-69.ru/assets/template/img/thanks/small/gallery-img4.jpg
+File Name: c:\Downloaded Web Sites\tamada-69.ru\assets\template\img\thanks\small\gallery-img4.jpg
+Content Type: image/jpeg
+
